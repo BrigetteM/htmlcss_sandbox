@@ -1,3 +1,13 @@
-h1 {
-  color: hotpink;
+html {
+  font-family: Arial, Helvetica, sans-serif;
 }
+
+h1, h2 {
+  color: #777777;
+}
+
+
+/* .classa {
+  color: red;
+} */
+
